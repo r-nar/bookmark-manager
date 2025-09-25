@@ -1,0 +1,5 @@
+{
+  "name": "Secure Bookmark Manager",
+  "description": "A simple and secure client-side bookmark manager with PIN-based access control. All your data is stored locally in your browser.",
+  "requestFramePermissions": []
+}
